@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap");
+
+* {
+  font-family: "Balsamiq Sans", cursive;
+}
+body{
+    background-color: #F5F5F5;
+}
+.background-img {
+  width: 100%;
+  height: 700px;
+  background-color: #000;
+  /* background-image: url("https://source.unsplash.com/1600x900/?road,car"); */
+  background-image: url("../img/background-1.jpg");
+  background-position: left center;
+  background-repeat: no-repeat;
+}
+.info {
+  background-color: #ec0404;
+  color: aliceblue;
+}
+.img-info {
+  width: 100%;
+  height: 300px;
+  margin: 20px 0px;
+}
+.img-info-wide {
+  width: 100%;
+  height: 250px;
+  margin: 20px 0px;
+}
+.img-info-wide-little {
+  width: 100%;
+  height: 200px;
+  margin: 20px 0px;
+}
+.info-text {
+  text-align: justify;
+}
+.heading-text {
+  text-align: justify;
+  font-weight: bold;
+}
+.img-person {
+  width: 100px;
+  height: 100px;
+  margin: 20px 0px;
+}
+.main-footer {
+  background-color: #2e1a1a;
+  color: aliceblue;
+}
+.footer-links {
+  list-style: none;
+}
+.footer-link {
+  color: aliceblue;
+}
+.footer-link:hover {
+  color: #ffffff;
+}
+.copyright-footer {
+  background-color: #3f1b1b;
+  padding: 20px 0px;
+  color: aliceblue;
+}
+.margin-top {
+  margin-top: 50px;
+}
+.intro {
+  background-color: #c70c0c;
+  color: aliceblue;
+  padding: 20px 0 5px 0;
+}
+.about-img-round {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.fa {
+  font-size: 1.2em;
+  color: #ec0404;
+}
+.info-div{
+  width: 100%;
+  height: 200px;
+  background-color: #ec0404;
+  border-radius: px;
+  text-align: center;
+}
+.vertical-center{
+padding: 50px;
+}
+.location-map{
+  width: 100%;
+  height: 450px;
+  background-color: red;
+  border-radius: 10px;
+}
